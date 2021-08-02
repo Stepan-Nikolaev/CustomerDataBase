@@ -1,0 +1,12 @@
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\bin\Debug\netcoreapp3.1\CustomerDataBase.exe
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\bin\Debug\netcoreapp3.1\CustomerDataBase.deps.json
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\bin\Debug\netcoreapp3.1\CustomerDataBase.runtimeconfig.json
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\bin\Debug\netcoreapp3.1\CustomerDataBase.runtimeconfig.dev.json
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\bin\Debug\netcoreapp3.1\CustomerDataBase.dll
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\bin\Debug\netcoreapp3.1\CustomerDataBase.pdb
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\obj\Debug\netcoreapp3.1\CustomerDataBase.csprojAssemblyReference.cache
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\obj\Debug\netcoreapp3.1\CustomerDataBase.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\obj\Debug\netcoreapp3.1\CustomerDataBase.AssemblyInfo.cs
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\obj\Debug\netcoreapp3.1\CustomerDataBase.dll
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\obj\Debug\netcoreapp3.1\CustomerDataBase.pdb
+D:\Степапка\DEX\Репозиторий\CustomerDataBase\CustomerDataBase\obj\Debug\netcoreapp3.1\CustomerDataBase.genruntimeconfig.cache
