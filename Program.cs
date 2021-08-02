@@ -26,7 +26,7 @@ namespace CustomerDataBase
                 {new Client {Name = "3", Surname = "3", Patronymic = "3", AccountNumber = 3, PassportID = 3}, new List<Account>()
                 {
                     new Account(){CountMoney = 300, ClientCurrent = new Hryvnia() },
-                    new Account(){CountMoney = 1000, ClientCurrent = new Hryvnia()}
+                    new Account(){CountMoney = 1000, ClientCurrent = new Ruble()}
                 }
                 }
             };
